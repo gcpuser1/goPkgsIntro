@@ -1,4 +1,4 @@
-package helloWorld
+package goPkgsIntro
 
 import "fmt"
 
